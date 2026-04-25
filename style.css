@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f7f7f7;
+  color: #0b2345;
+}
+
+header {
+  background: #071f3f;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+header h1 {
+  color: #d4a52c;
+  margin: 0;
+}
+
+section {
+  padding: 20px;
+  margin: 20px;
+  background: white;
+  border-radius: 10px;
+}
+
+footer {
+  background: #071f3f;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
